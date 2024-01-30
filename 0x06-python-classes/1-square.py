@@ -2,6 +2,7 @@
 
 """A class square that has a private instance attribute"""
 
+
 class Square:
     """Representing square."""
 
